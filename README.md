@@ -1,5 +1,5 @@
-# AmateurVoices
-AmateurVoices: A Dataset of Amateur Karaoke Singing and Audiobook Narration with Human Ratings of Vocal Expression and Recording Quality
+# A Listener-Evaluated Dataset of Amateur Karaoke Singing and Audiobook Narration
+AES International Conference on Artificial Intelligence and Machine Learning for Audio, 2025
 
 AmateurVoices_Raw.csv includes each listener evaluation, RAW, in a row.
 
